@@ -4,10 +4,10 @@ exact::me - Original program path locations extension for exact
 
 # VERSION
 
-version 1.01
+version 1.02
 
-[![Build Status](https://travis-ci.org/gryphonshafer/exact-me.svg)](https://travis-ci.org/gryphonshafer/exact-me)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/exact-me/badge.png)](https://coveralls.io/r/gryphonshafer/exact-me)
+[![build](https://github.com/gryphonshafer/exact-me/workflows/build/badge.svg)](https://github.com/gryphonshafer/exact-me/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/exact-me/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/exact-me)
 
 # SYNOPSIS
 
@@ -63,8 +63,8 @@ You can look for additional information at:
 
 - [GitHub](https://github.com/gryphonshafer/exact-me)
 - [MetaCPAN](https://metacpan.org/pod/exact::me)
-- [Travis CI](https://travis-ci.org/gryphonshafer/exact-me)
-- [Coveralls](https://coveralls.io/r/gryphonshafer/exact-me)
+- [GitHub Actions](https://github.com/gryphonshafer/exact-me/actions)
+- [Codecov](https://codecov.io/gh/gryphonshafer/exact-me)
 - [CPANTS](http://cpants.cpanauthors.org/dist/exact-me)
 - [CPAN Testers](http://www.cpantesters.org/distro/D/exact-me.html)
 
@@ -74,7 +74,7 @@ Gryphon Shafer <gryphon@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2020 by Gryphon Shafer.
+This software is copyright (c) 2021 by Gryphon Shafer.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
