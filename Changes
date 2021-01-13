@@ -1,6 +1,7 @@
 Revision history for exact::me
 
 {{$NEXT}}
+        - Override some minimum version reqs in dist.ini
 
 1.02      2021-01-10 16:47:08-08:00 America/Los_Angeles
         - Migrate to Test2::V0
