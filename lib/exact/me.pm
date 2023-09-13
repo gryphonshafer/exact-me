@@ -3,13 +3,12 @@ package exact::me;
 
 use 5.014;
 use exact;
-use strict;
 use FindBin;
 
 # VERSION
 
 sub import {
-    my ( $self, $caller ) = @_;
+    my ( $self, $params, $caller ) = @_;
     $caller //= caller();
 
     {
